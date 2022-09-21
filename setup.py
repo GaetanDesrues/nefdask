@@ -4,8 +4,8 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="packageName",
-    version="0.1.000",
+    name="nefdask",
+    version="0.1.001",
     # author="",
     # author_email="",
     # url="",

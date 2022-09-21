@@ -1,3 +1,4 @@
-wheel
-twine
+dask
+dask_jobqueue
+distributed
 treefiles
