@@ -5,10 +5,10 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="nefdask",
-    version="0.1.001",
-    # author="",
-    # author_email="",
-    # url="",
+    version="0.1.002",
+    author="GD",
+    author_email="gaetan.desrues@inria.fr",
+    url="https://github.com/GaetanDesrues/nefdask",
     description="Description",
     long_description=long_description,
     long_description_content_type="text/markdown",
